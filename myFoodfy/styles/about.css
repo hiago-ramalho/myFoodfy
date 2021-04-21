@@ -19,7 +19,7 @@
 
 .navBar {
     width: 100%;
-    padding: 0.5rem;
+    padding: 4px 0;
 
     display: flex;
     justify-content: space-between;
@@ -29,7 +29,7 @@
     text-decoration: none;
     color: white;
 
-    padding: 0.5rem;
+    padding: 8px;
 
     font-family: var(--main-font);
 }
@@ -39,7 +39,7 @@
     font-size: 1.0rem;
     letter-spacing: 0.06rem;
 
-    margin-left: 20%;
+    margin-left: 20px;
 }
 
 .navBar #links a:hover {
@@ -64,8 +64,8 @@
 }
 
 #content p { 
-    margin-top: 0.5rem;
-    margin-bottom: 1.5rem;
+    margin-top: 8px;
+    margin-bottom: 20px;
 
     font-size: 0.85rem;
     background-color: #328f73;
@@ -73,8 +73,8 @@
 
 
 footer p{
-    margin-top: 5.0rem;
-    padding: 0.3rem 0.3rem 0 0.3rem;
+    margin-top: 80px;
+    padding: 4px;
 
     font-size: 0.8rem;
     text-align: center;

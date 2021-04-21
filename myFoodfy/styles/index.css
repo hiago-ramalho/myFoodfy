@@ -19,7 +19,7 @@
 
 .navBar {
     width: 100%;
-    padding: 0.5rem;
+    padding: 4px 0;
 
     display: flex;
     justify-content: space-between;
@@ -29,7 +29,7 @@
     text-decoration: none;
     color: white;
 
-    padding: 0.5rem;
+    padding: 8px;
 
     font-family: var(--main-font);
 }
@@ -39,7 +39,7 @@
     font-size: 1.0rem;
     letter-spacing: 0.06rem;
 
-    margin-left: 20%;
+    margin-left: 20px;
 }
 
 .navBar #links a:hover {
@@ -68,7 +68,7 @@
     color: white;
 
     padding: 50px;
-    margin-top: 50px;
+    margin-top: 45px;
 }
 
 #content #textContent h2 {
@@ -81,7 +81,7 @@
     background-color: #328f73;
 
     max-width: 70%;
-    margin-top: 1rem;
+    margin-top: 16px;
 }
 
 #content #imageContent {
@@ -97,46 +97,49 @@
 
 }
 
-#mostAccessed {
-    max-width: 65%;
+.mostAccessed {
+    max-width: 60%;
     margin: 50px auto 20px auto;
 
     color: white;
 
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
     gap: 10px;
 }
 
-#mostAccessed #title {
+.mostAccessed #title {
     width: 100%;
-    margin-left: 4%;
+
+    grid-column-start: 1;
+    grid-column-end: 4;
 
     font-size: 1.2rem;
 }
 
-#mostAccessed #revenue {
-    width: 30%;
-
+.mostAccessed .revenue {
     cursor: pointer;
 }
 
 
-#mostAccessed #revenue #imageRevenue img {
+.mostAccessed .revenue .imageRevenue img {
     width: 100%;
     height: 140px;
     border-radius: 15px;
 }
 
-#mostAccessed #revenue #contentRevenue p {
+.mostAccessed .revenue .contentRevenue {
+    padding: 5px;
+}
+
+.mostAccessed .revenue .contentRevenue p {
     
     font-size: 0.8rem;
 }
 
 footer p{
-    margin-top: 5.0rem;
-    padding: 0.3rem 0.3rem 0 0.3rem;
+    margin-top: 80px;
+    padding: 4px;
 
     font-size: 0.8rem;
     text-align: center;
