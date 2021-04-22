@@ -1,5 +1,7 @@
 ### myFoodfy 🌱
 
+<img src="images/cap1.png" >
+
 _**myFoodfy**_ é um projeto baseado no desafio Foodfy do BootCamp LaunchBase da <a href="https://rocketseat.com.br/">RocketSeat </a>, que basicamente é um site de receitas.
 
 Fiz minha versão para receitas veganas e vegetarianas. 🌱
@@ -11,3 +13,4 @@ O projeto ainda não foi finalizado, mas basicamente as tecnologias que já fora
  * ReactJS <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/>
 
 Na medida que irei aprendendo coisas novas, a intenção é adicioná-las a este projeto na medida do possível e do que interessar à ele.
+
