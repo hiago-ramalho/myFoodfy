@@ -1,6 +1,6 @@
 ### myFoodfy 🌱
 
-_**myFoodfy**_ é um projeto baseado no desafio Foodfy do BootCamp LaunchBase da [RocketSeat]{https://rocketseat.com.br/}, que basicamente é um site de receitas.
+_**myFoodfy**_ é um projeto baseado no desafio Foodfy do BootCamp LaunchBase da <a href="https://rocketseat.com.br/">RocketSeat </a>, que basicamente é um site de receitas.
 
 Fiz minha versão para receitas veganas e vegetarianas. 🌱
 
