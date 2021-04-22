@@ -16,3 +16,12 @@ O projeto ainda não foi finalizado, mas basicamente as tecnologias que já fora
 
 Na medida que irei aprendendo coisas novas, a intenção é adicioná-las a este projeto na medida do possível e do que interessar à ele.
 
+Alguns prints das telas do projeto ⬇️
+<p align="center">
+    <img src="src\to-readme\cap1.png" width="500px" >
+    <img src="src\to-readme\cap2.png" width="500px" >
+</p>
+<p align="center">
+    <img src="src\to-readme\cap3.png" width="500px" >
+    <img src="src\to-readme\cap4.png" width="500px" >
+</p>
