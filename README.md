@@ -1,6 +1,6 @@
 ### myFoodfy 🌱
 
-<img src="images/cap1.png" >
+<img src="./images/cap1.png" width="500px" >
 
 _**myFoodfy**_ é um projeto baseado no desafio Foodfy do BootCamp LaunchBase da <a href="https://rocketseat.com.br/">RocketSeat </a>, que basicamente é um site de receitas.
 
